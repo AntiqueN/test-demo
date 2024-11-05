@@ -10,8 +10,6 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	
-	
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
