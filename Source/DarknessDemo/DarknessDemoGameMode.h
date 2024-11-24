@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -10,10 +8,4 @@ UCLASS(minimalapi)
 class ADarknessDemoGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
-
-public:
-	ADarknessDemoGameMode();
 };
-
-
-
